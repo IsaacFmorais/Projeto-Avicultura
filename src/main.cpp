@@ -1,3 +1,10 @@
+/*
+Autor: Isaac Fagundes Morais
+Data: 24/06/2025
+Nome: LCD de Avicultura
+Descrição: Pega informações do MQTT em um Broker AWS 
+*/
+
 #include <Arduino.h>
 #include <ArduinoJson.h>
 #include <PubSubClient.h>
